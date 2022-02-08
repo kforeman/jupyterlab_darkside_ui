@@ -778,6 +778,9 @@ div.lm-Widget.p-Widget.jp-Toolbar.jp-scrollbar-tiny.jp-NotebookPanel-toolbar > d
 [data-jp-theme-light='false'] .jp-RenderedImage img.jp-needs-light-background {
     background-color: var(--jp-inverse-layout-color1);
 } */
+img.jp-needs-light-background {
+    background-color: #ffffff;
+}
 
 /* ########################################################*/
 /*                      INPUT PROMPT                       */
